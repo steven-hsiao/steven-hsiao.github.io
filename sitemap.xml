@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/03/17/hello-world/</loc>
+    <loc>https://steven-hsiao.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-04-09T13:22:14.624Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://steven-hsiao.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-04-09T13:21:30.772Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://steven-hsiao.github.io/2019/03/17/hello-world/</loc>
     
     <lastmod>2019-03-17T12:24:42.805Z</lastmod>
     
